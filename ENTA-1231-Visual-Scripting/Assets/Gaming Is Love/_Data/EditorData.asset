@@ -16,11 +16,11 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 9
-  subSection: 0
-  tabIndex: -1
-  scrollY: 0
-  foldoutLimit: 
+  section: 5
+  subSection: 8
+  tabIndex: 1
+  scrollY: 698
+  foldoutLimit: Battle Animation
   helpDrag: 183
   subSectionDrag: 219
   tabListDrag: 200
@@ -36,10 +36,13 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 4d980287725292e419c52e047c65fdc1, type: 2}
+  - {fileID: 11400000, guid: d9c9e46bc48946b43b374a34009921f9, type: 2}
+  - {fileID: 11400000, guid: ef88e0bc2a07b224da82e68df21c8456, type: 2}
   - {fileID: 11400000, guid: e62d044e0cc29a34c94658bf11b8ac1a, type: 2}
   - {fileID: 11400000, guid: 9f23f0062d059504f9e066c6a12498e0, type: 2}
-  - {fileID: 11400000, guid: 9cd52e026d89ee3489773afefd8509d4, type: 2}
   - {fileID: 11400000, guid: ea6fa425d37cea74193ad52cc789cf42, type: 2}
+  - {fileID: 11400000, guid: 9cd52e026d89ee3489773afefd8509d4, type: 2}
   - {fileID: 11400000, guid: 88050a49109520645b5bbfa93a0cb39b, type: 2}
   - {fileID: 11400000, guid: 184b505b3f0cf4944b81d7f093287d6c, type: 2}
   - {fileID: 11400000, guid: 5494208a52a2ab749ab9ac6c14b3f8a4, type: 2}
@@ -55,6 +58,7 @@ MonoBehaviour:
   variablesSchematic:
   - ui
   - battleScene
+  - wait
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
