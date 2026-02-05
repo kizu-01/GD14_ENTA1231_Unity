@@ -16,16 +16,16 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 2
-  subSection: 6
-  tabIndex: 5
-  scrollY: 37
+  section: 3
+  subSection: 0
+  tabIndex: -1
+  scrollY: 316
   foldoutLimit: 
   helpDrag: 220
-  subSectionDrag: 172
+  subSectionDrag: 219
   tabListDrag: 200
   formulaDrag: 250
-  schematicDrag: 400
+  schematicDrag: 321
   jumpListDrag: 250
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
@@ -36,6 +36,8 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: 184b505b3f0cf4944b81d7f093287d6c, type: 2}
+  - {fileID: 11400000, guid: 5494208a52a2ab749ab9ac6c14b3f8a4, type: 2}
   - {fileID: 11400000, guid: 9cd52e026d89ee3489773afefd8509d4, type: 2}
   dialogueImportSettings:
     name: 
@@ -46,7 +48,8 @@ MonoBehaviour:
     encrypted: 0
   variablesDefined: []
   variablesEditor: []
-  variablesSchematic: []
+  variablesSchematic:
+  - ui
   variablesScene: []
   variablesPrefab: []
   foldoutKeys: []
