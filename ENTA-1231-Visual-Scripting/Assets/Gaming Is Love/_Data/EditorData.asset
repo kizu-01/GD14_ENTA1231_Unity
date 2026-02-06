@@ -19,13 +19,13 @@ MonoBehaviour:
   section: 7
   subSection: 5
   tabIndex: 0
-  scrollY: 275.64215
-  foldoutLimit: Attacks & Abilities
+  scrollY: 1380
+  foldoutLimit: Inventory & Equipment
   helpDrag: 183
   subSectionDrag: 219
   tabListDrag: 200
   formulaDrag: 250
-  schematicDrag: 281
+  schematicDrag: 430.6
   jumpListDrag: 250
   dataSelectionSorting: 0
   typeDataSelectionSorting: 0
@@ -36,6 +36,9 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: f536b146df36d4641a0b16a5c90818b3, type: 2}
+  - {fileID: 11400000, guid: 668ebeeedb364a84f8f277e15b981081, type: 2}
+  - {fileID: 11400000, guid: 4a703978349e969419d05e2fb6569be3, type: 2}
   - {fileID: 11400000, guid: 4d980287725292e419c52e047c65fdc1, type: 2}
   - {fileID: 11400000, guid: d9c9e46bc48946b43b374a34009921f9, type: 2}
   - {fileID: 11400000, guid: ef88e0bc2a07b224da82e68df21c8456, type: 2}
